@@ -24,7 +24,6 @@ io.on("connection", (socket) => {
     }
 
     if (ffmpegProcess && ffmpegProcess.stdin.writable) {
-      console.log(`Received video data for stream key: ${streamKey}`);
       ffmpegProcess.stdin.write(Buffer.from(videoData));
     }
   });
