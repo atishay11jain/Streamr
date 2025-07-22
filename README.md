@@ -4,9 +4,9 @@ A web based platform helps user in live streaming their webcam and audio on to y
 
 ## ✨ Features
 
-**One-Page Application**: Complete streaming solution on a single page
-**Live Video Preview**: Real-time camera feed with professional overlay controls
-**Stream Controls**: Start/Stop streaming with intuitive button controls
+-**One-Page Application**: Complete streaming solution on a single page.
+-**Live Video Preview**: Real-time camera feed with professional overlay controls.
+-**Stream Controls**: Start/Stop streaming with intuitive button controls
 
 ## Initial State
 <img width="1914" height="994" alt="image" src="https://github.com/user-attachments/assets/25cdadee-2974-4d16-8ecb-fa6eaeba216a" />
